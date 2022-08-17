@@ -1,7 +1,7 @@
 ## Hello! I'm Monelle Trachez and I'm a Junior Developer in Perth, Western Australia
 
 Having completed the 🟣SheCodes Plus program🟠, I am excited to continue learning and contributing to team projects.
-While keen on all areas of coding, my background in graphic design drives me towardsFrontend development, UX planning and accessibility.
+While keen on all areas of coding, my background in graphic design drives me towards Frontend development, UX planning and accessibility.
 
 This is a great time to be entering the tech industry, and I look forward to grow, progress and give back to the community ✨.
 
